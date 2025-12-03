@@ -1,0 +1,9 @@
+# dependencies
+node_modules/
+
+# production build
+dist/
+
+# Vite cache
+.vite/
+.cache/
